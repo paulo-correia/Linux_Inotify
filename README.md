@@ -1,7 +1,9 @@
 # Inotify
 
 Permite que um programa de monitoramento abra um único descritor de arquivo e procure em um ou mais arquivos ou diretórios por um conjunto de eventos específico, como abrir, fechar, mover/renomear, deletar, criar ou alterar atributos.  
-Alguns aprimoramentos foram feitos nos kernels futuros, assim, verifique o nível do seu kernel antes de depender destes recursos.
+
+## No Docker (Alpine Linux)
+[Docker_Inotify](https://github.com/paulo-correia/Docker_Inotify)
 
 ## Instalação
 
